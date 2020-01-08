@@ -1,7 +1,6 @@
 # Duration calculator
 
-Very simple tool that shows the inclusive difference between two dates, usefull to calculate date durations.
-
+Simple tool to calculate the (inclusive) duration between two dates 
 
 ## Screenshot
 
